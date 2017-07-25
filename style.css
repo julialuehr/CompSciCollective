@@ -5,14 +5,16 @@ ul {
   background-color: rgb(198,70,255);
 }
 
+body {
+  background-color: rgb(250,190,255);
+}
 li {
   display: inline;
 }
 
-.home {
-  text-family: fantasy;
+p {
+  font-family: fantasy;
   font-aligh: left;
-  background-color: rgb(250,190,255);
 }
 
 
