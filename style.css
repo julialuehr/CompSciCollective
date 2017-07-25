@@ -9,7 +9,7 @@ li {
   display: inline;
 }
 
-p {
+.home {
   text-family: fantasy;
   font-aligh: left;
   background-color: rgb(250,190,255);
