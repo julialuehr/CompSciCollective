@@ -6,9 +6,12 @@ ul {
 
 li {
   display: inline;
+  background-color: rgb(200,60,255);
 }
 
 p {
   text-family: fantasy;
   font-aligh: left;
 }
+
+
