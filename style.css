@@ -10,12 +10,12 @@ body {
   background-color: rgb(194,241,226);
 }
 li {
-  float: center;
+  float: left;
 }
 
 a {
   display: block;
-  padding: 60px;
+  padding: 16px;
 }
 
 p {
