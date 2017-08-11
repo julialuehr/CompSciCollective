@@ -9,6 +9,12 @@ ul {
 body {
   background-color: rgb(194,241,226);
 }
+
+h3{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;  
+  font-aligh: left; 
+  color: rgb(56,59,63);
+}
 li {
   float: left;
 }
