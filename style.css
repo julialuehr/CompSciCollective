@@ -48,8 +48,15 @@ h1 {
   text-transform: uppercase;
 }
 
-table, th, td {
-  border: 5px;
-  border-color: rgb(56,59,63);
+table {
+  border: 5px solid black;
+}
+
+th {
+  border: 5px solid black;
+}
+
+td {
+ border: 5px solid black; 
 }
 
