@@ -21,6 +21,7 @@ li {
 
 img {
   float: right;
+  border-style: solid;
   border-width: 60px;
   border-color: rgb(56,59,63);
   padding: 0;
@@ -45,5 +46,10 @@ h1 {
   text-align: center;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   text-transform: uppercase;
+}
+
+table, th, td {
+  border: 20px;
+  border-color: rgb(56,59,63);
 }
 
