@@ -19,8 +19,11 @@ li {
   float: left;
 }
 
+div.home {
+  align: right;
+}
+
 img {
-  float: right;
   border-style: solid;
   border-width: 10px;
   border-color: rgb(56,59,63);
