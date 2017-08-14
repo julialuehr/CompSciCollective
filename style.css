@@ -20,7 +20,15 @@ li {
 }
 
 .home {
-  align: right;
+  float: right;
+}
+
+.about1 {
+  float: right;
+}
+
+.about2 {
+  float: left;
 }
 
 img {
