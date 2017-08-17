@@ -61,16 +61,11 @@ h1 {
   text-transform: uppercase;
 }
 
-table {
-  border: 1px solid black;
+table, th, td {
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(56,59,63);
   width: 100%;
 }
 
-th {
-  border: 1px solid black;
-}
-
-td {
- border: 1px solid black; 
-}
 
