@@ -66,11 +66,23 @@ h1 {
   text-transform: uppercase;
 }
 
-table, th, td {
+table {
   border: 1px;
   border-style: solid;
   border-color: rgb(56,59,63);
   width: 100%;
+}
+
+td {
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(56,59,63);
+}
+
+th {
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(56,59,63); 
 }
 
 
