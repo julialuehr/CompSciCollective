@@ -25,12 +25,17 @@ li {
 
 .about1 {
   float: right;
+  width: 400px;
 }
 
 .about2 {
   float: left;
-  width: 500px;
+  width: 400px;
   height: 600px;
+}
+
+.about {
+ margin: 16px; 
 }
 
 img {
