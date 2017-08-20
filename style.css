@@ -29,8 +29,8 @@ li {
 }
 
 .pabout {
-  width: 450px;
-  text-align: center;
+  width: 500px;
+  font-align: center;
 }
 
 .about2 {
@@ -58,7 +58,7 @@ p{
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-aligh: left;
   color: rgb(56,59,63);
-  width: 500px;
+  width: 750px;
 }
 
 h1 {
