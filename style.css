@@ -26,10 +26,11 @@ li {
 .about1 {
   float: right;
   width: 300px;
+  margin: 10px;
 }
 
 .pabout {
-  width: 900px;
+  width: 1100px;
 }
 
 .about2 {
