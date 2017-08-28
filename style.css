@@ -19,6 +19,14 @@ li {
   float: left;
 }
 
+
+.data {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;
+}
+
 .home {
   float: right;
 }
@@ -87,11 +95,5 @@ th {
   border-color: rgb(56,59,63); 
 }
 
-.data {
-  float: right;
-  width: 200px;
-  height: 200px;
-  margin-left: 30px;
-}
 
 
