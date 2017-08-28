@@ -87,4 +87,9 @@ th {
   border-color: rgb(56,59,63); 
 }
 
+.data {
+  float: right;
+  margin-left: 10px;
+}
+
 
